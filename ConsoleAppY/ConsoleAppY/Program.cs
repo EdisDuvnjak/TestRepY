@@ -10,7 +10,7 @@ namespace ConsoleAppY
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Halo Bola");
+            Console.WriteLine("Halo Bola, 2:0 heute Abend");
             Console.ReadKey();
         }
     }
